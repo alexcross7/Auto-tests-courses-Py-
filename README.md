@@ -1,2 +1,2 @@
 stepic_autotests
-ste
+
